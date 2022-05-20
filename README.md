@@ -11,7 +11,7 @@
 
 ![GuaxinimOP GitHub stats](https://github-readme-stats.vercel.app/api?username=GuaxinimOP&show_icons=true&theme=dracula&include_all_commits=true&count_private=true)
 
-### Linguagens de programação e tecnologias
+### Linguagens de programação e ferramentas
 
 <div style="display: inline_block">
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
