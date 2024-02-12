@@ -1,4 +1,4 @@
-### Olá, eu sou GuaxinimOP
+### Olá!
 
 - Cursando Ciência da Computação
 - Desenvolvendo bots p/ Discord por diversão
